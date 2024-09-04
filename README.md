@@ -20,28 +20,6 @@ This Ride Sharing App is a simple C++ console application designed to manage dri
   - Base Fare: ₹50 for the first kilometer
   - Additional Fare: ₹20 for each subsequent kilometer
 
-## Getting Started
-
-### Prerequisites
-
-- C++ Compiler (e.g., GCC)
-- Basic understanding of C++ programming
-
-### Compilation
-
-To compile the program, use the following command:
-
-```bash
-g++ -o ride_sharing_app ride_sharing_app.cpp
-```
-
-### Running the Program
-
-To run the compiled program, use the following command:
-
-```bash
-./ride_sharing_app
-```
 
 ### Usage
 
